@@ -1,3 +1,5 @@
+> **Archived.** This engine now lives in [Koryuai-easymusicviz](https://github.com/mattske1/Koryuai-easymusicviz) — every Koryuai visual engine in one place, one CLI, pluggable engines. This repo is read-only.
+
 # Stillwater
 
 Seamless photorealistic ambient nature loops — water, stone, mist — made to sit
